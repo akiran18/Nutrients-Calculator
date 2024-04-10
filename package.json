@@ -20,7 +20,7 @@
     "url": "https://github.com/food-nutrients/food-nutrients/issues"
   },
   "private": false,
-  "homepage": "https://github.com/food-nutrients/food-nutrients#readme",
+  "homepage": "https://github.com/food-nutrients/food-nutrients.git",
   "repository": {
     "type": "git",
     "url": "https://github.com/food-nutrients/food-nutrients.git"
